@@ -1,8 +1,8 @@
-## Deteksi Anomali Transaksi dengan Unsupervised Learning##
+## Deteksi Anomali Transaksi dengan Unsupervised Learning
 
 Pada proyek Capstone Project saya mendapatkan jobdesk untuk mengerjakan Fitur Deteksi Anomali Transaksi ini bertujuan untuk mendeteksi anomali pada data transaksi keuangan menggunakan metode unsupervised learning, yakni tanpa memerlukan label sebelumnya. Dua algoritma utama yang digunakan adalah Isolation Forest dan One-Class SVM.
 
-## Alur Proses##
+## Alur Proses
 1. Pembersihan Data
 - Menghapus nilai null dan duplikat.
 - Konversi tipe data waktu dan identifikasi akun unik.
